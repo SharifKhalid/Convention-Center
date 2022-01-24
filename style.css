@@ -1,0 +1,14 @@
+#footer-bac{
+    background-color: coral;
+}
+.pack-bac{
+    background-color: rgb(240, 202, 132);
+}
+.border-r{
+    border-radius: 20px;
+}
+.button-c{
+    background-color: rgb(90, 219, 68);
+    color: rgb(14, 13, 13);
+    font-weight: bold;
+}
